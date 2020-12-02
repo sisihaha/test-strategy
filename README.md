@@ -78,13 +78,13 @@ Verify that a system meets external requirements and achieves its goals, testing
 
 Test the depth of a feature presented by the application.
 
-![•Vertical end-to-end tests](pic/Vertical_end-to-end_tests.png)
+![Vertical end-to-end tests](pic/Vertical_end-to-end_tests.png)
 
 ### Horizontal end-to-end tests
 
 Test across the entire scope of an application.
 
-![image-20201202103627417](pic/Horizontal_end-to-end_tests.png)
+![Horizontal end-to-end tests](pic/Horizontal_end-to-end_tests.png)
 
 ## Reference
 
